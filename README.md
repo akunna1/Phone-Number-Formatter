@@ -14,4 +14,3 @@ const handlePhoneChange = (event) => {
 function handlePhoneChange(event) {
     // Function body
 }
-
